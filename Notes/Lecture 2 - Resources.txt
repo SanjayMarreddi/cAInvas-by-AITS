@@ -1,0 +1,9 @@
+Further References:-
+
+Text Book: Deep Learning by Aaron Courville, Ian Goodfellow, and Yoshua Bengio, 2016.        http://www.deeplearningbook.org/
+
+Web Links: 
+
+1. Stanford University - CS229: Machine Learning:- 						http://cs229.stanford.edu/
+2. UC Berkeley - CS189: Introduction to Machine Learning:- 					https://www.eecs189.org/
+3. GitHub - Machine Intelligence in Design Automation by Rohit Sharma (excerpts):- 		https://srohit0.github.io/mida/
